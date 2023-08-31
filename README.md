@@ -1,7 +1,7 @@
 ![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Ajeeth</h1>
 <h3 align="center">A data-driven analyst exploring insights through numbers and patterns</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk5aTh1MnFkZG12ZXZ5cXlyc2VwendkaXFrMzFhMnI5c254bjJtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk5aTh1MnFkZG12ZXZ5cXlyc2VwendkaXFrMzFhMnI5c254bjJtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeeth12&label=Profile%20views&color=0e75b6&style=flat" alt="ajeeth12" /> </p>
 
