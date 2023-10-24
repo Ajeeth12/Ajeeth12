@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeeth12&label=Profile%20views&color=0e75b6&style=flat" alt="ajeeth12" /> </p>
 
-- 🔭 Focus **Leveraging Python, R, and tools like pandas, scikit-learn, and TensorFlow to derive actionable insights.**
+- 🔭 **Focus** Leveraging Python, R, and tools like pandas, scikit-learn, and TensorFlow to derive actionable insights.
 
-- 🌱 Seeking **Knowledge exchange on the latest in data science and machine learning.**
+- 🌱 **Seeking** Knowledge exchange on the latest in data science and machine learning.
 
-- 👯 On My Desk **Advancing my skills in statistical analysis, deep learning with TensorFlow, and NLP with spaCy & NLTK.**
+- 👯 **On My Desk** Advancing my skills in statistical analysis, deep learning with TensorFlow, and NLP with spaCy & NLTK.
 
-- 🤝 Collaboration **Keen to work on projects involving data visualization (Matplotlib, Seaborn), statistical analysis and ML applications in Python.**
+- 🤝 **Collaboration** Keen to work on projects involving data visualization (Matplotlib, Seaborn), statistical analysis and ML applications in Python.
 
-- 💬 Ask me about **Data preprocessing, EDA, interactive data visualizations, ML algorithms, or Python & R optimization tips.**
+- 💬 **Ask me about** Data preprocessing, EDA, interactive data visualizations, ML algorithms, or Python & R optimization tips.
 
-- 📫 How to reach me **ajeethaj99@gmail.com**
+- 📫 **How to reach me** ajeethaj99@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zGYXK_5u18b1Mj80GSXqkF22YPomxxu3/view?usp=drive_link](https://drive.google.com/file/d/1zGYXK_5u18b1Mj80GSXqkF22YPomxxu3/view?usp=drive_link)
+- 📄 **Know about my experiences** [https://drive.google.com/file/d/1zGYXK_5u18b1Mj80GSXqkF22YPomxxu3/view?usp=drive_link](https://drive.google.com/file/d/1zGYXK_5u18b1Mj80GSXqkF22YPomxxu3/view?usp=drive_link)
 
 - ⚡ Fun fact **I can turn raw data into captivating stories, making numbers dance and reveal their secrets**
 
