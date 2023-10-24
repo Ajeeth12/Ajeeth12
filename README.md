@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Ajeeth</h1>
 <h3 align="center">Data Detective 🕵️ | Passionate about Turning Raw Data into Actionable Stories 📖</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeeth12&label=Profile%20views&color=0e75b6&style=flat" alt="ajeeth12" /> </p>
