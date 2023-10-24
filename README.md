@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Ajeeth</h1>
-<h3 align="center">Data Detective 🕵️ | Crafting Narratives from Numbers 📊 | Diving Deep into Datasets to Surface Insights ✨ | Translating Complexities into Clear Narratives 📘</h3>
+<h3 align="center">Data Detective 🕵️ | Crafting Narratives from Numbers 📊 | Translating Complexities into Clear Narratives 📘</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
