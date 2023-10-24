@@ -20,7 +20,7 @@
 
 - 📄 **Know about my experiences** [https://drive.google.com/file/d/1zGYXK_5u18b1Mj80GSXqkF22YPomxxu3/view?usp=drive_link](https://drive.google.com/file/d/1zGYXK_5u18b1Mj80GSXqkF22YPomxxu3/view?usp=drive_link)
 
-- ⚡ Fun fact **I can turn raw data into captivating stories, making numbers dance and reveal their secrets**
+- ⚡ **Fun fact** I can turn raw data into captivating stories, making numbers dance and reveal their secrets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
